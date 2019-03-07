@@ -10,7 +10,7 @@ Welcome to MathamathicalOperations's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-.. automodule:: fib
+.. automodule:: simple_math
    :members:
 
 
