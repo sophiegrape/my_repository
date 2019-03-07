@@ -7,18 +7,18 @@ A collection of simple math operations.
 
 
 def simple_add(a,b):
-"""
-Simple addition of a and b.  
+    """
+    Simple addition of a and b.  
 
-Parameters
-----------
-a : object supporting addition
-b : object supporting addition
+    Parameters
+    ----------
+    a : object supporting addition
+    b : object supporting addition
 
-Examples
---------
-c=simple_add(a,b)
-"""
+    Examples
+    --------
+    c=simple_add(a,b)
+    """
     return a+b
 
 def simple_sub(a,b):
